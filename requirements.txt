@@ -1,0 +1,12 @@
+## Requirements
+
+The `requirements.txt` file lists the Python dependencies required to run the YouTube Downloader With Python project. It includes the following libraries:
+
+- `yt-dlp`: A powerful library for downloading YouTube videos and playlists.
+- `click`: Used to create the user-friendly command-line interface.
+- `tqdm`: Provides a progress bar for tracking download progress.
+
+To install these dependencies, run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
